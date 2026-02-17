@@ -53,3 +53,10 @@ L'installation du certificat CA a permis de lever l'erreur `NET::ERR_CERT_AUTHOR
 3. **Pratiques Android :** Utiliser la configuration de sécurité réseau d'Android pour restreindre les autorités de certification acceptées et désactiver l'usage des certificats utilisateur en production.
 
 > **Note d'hygiène :** Le certificat CA a été installé temporairement pour ce test et doit être retiré de l'émulateur à la fin de la session.
+
+## 5. Checklist de Validation et Fin de Séance
+* [x] **Burp Capture :** Requêtes visibles dans l'historique HTTP.
+* [x] **Listener :** Actif sur `192.168.1.5:8081`.
+* [x] **Proxy Android :** Configuré en mode "Manual".
+* [x] **Intercept :** Désactivé après démonstration (`Intercept is off`).
+* [x] **Nettoyage :** Suppression prévue du certificat CA pour retour à un état sain.
