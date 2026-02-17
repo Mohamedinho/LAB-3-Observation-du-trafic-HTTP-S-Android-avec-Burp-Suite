@@ -9,6 +9,8 @@
     * **Port Proxy :** `8081`.
 * **Date/Heure :** 17/02/2026 à 17:44.
 
+<img width="623" height="155" alt="image" src="https://github.com/user-attachments/assets/b2813384-90e0-4eae-95f2-1e9d6463154c" />
+
 ---
 
 ## 2. Preuves Techniques
@@ -20,7 +22,9 @@ L'installation du certificat CA a permis de lever l'erreur `NET::ERR_CERT_AUTHOR
 
 <img width="1582" height="364" alt="image" src="https://github.com/user-attachments/assets/07581b4e-aa17-4f90-a4ff-b6b6065e908e" />
 
+## Capture de Listener
 
+<img width="1347" height="887" alt="image" src="https://github.com/user-attachments/assets/e9ee908f-6ccd-4787-910a-5cff5daccb6f" />
 
 ### Détails d'une requête (Headers + URL)
 * **URL :** `http://www.google.com/gen_204`.
@@ -31,6 +35,13 @@ L'installation du certificat CA a permis de lever l'erreur `NET::ERR_CERT_AUTHOR
     * `Connection: keep-alive`.
 
 <img width="715" height="861" alt="image" src="https://github.com/user-attachments/assets/296a04e2-bf04-4c35-8e85-42848985fce1" />
+
+## Suppression prévue du certificat CA pour retour à un état sain
+
+<img width="369" height="826" alt="image" src="https://github.com/user-attachments/assets/aede889b-f1a2-4ebf-a49e-412f31ba3ac2" />
+
+## Nettoyage bien fait
+<img width="317" height="702" alt="image" src="https://github.com/user-attachments/assets/329a4bcf-8cb1-490b-9485-d2bb71798589" />
 
 ---
 
